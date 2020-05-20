@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMeetingAssistant", "SmartMeetingAssistant\SmartMeetingAssistant.csproj", "{42B11BE7-B612-4D03-BA87-C7B87B40E9E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageRank", "F:\TextSummarizer\PageRank\PageRank.csproj", "{309FDCCF-C71C-4580-A6AD-44A692D89E6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageRank", "PageRank\PageRank.csproj", "{309FDCCF-C71C-4580-A6AD-44A692D89E6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRank", "F:\TextSummarizer\TextRank\TextRank.csproj", "{223D7B57-1366-4CE6-B09B-8973C40D66C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRank", "TextRank\TextRank.csproj", "{223D7B57-1366-4CE6-B09B-8973C40D66C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
